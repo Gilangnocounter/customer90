@@ -1,6 +1,6 @@
 const translations = {
     vi: {
-        title: "Xevion 🎁",
+        title: "Made For Syazana 🎁",
         description: "Only for you!",
         login: "Đăng nhập bằng Google",
         logout: "Đăng xuất",
@@ -133,7 +133,7 @@ const translations = {
         paypalPaymentDesc: "Dành cho người dùng quốc tế",
     },
     en: {
-        title: "Xevion 🎁",
+        title: "Made For Syazana 🎁",
         description: "A special gift is waiting for you to discover! Press to see the special message!",
         login: "Sign in with Google",
         logout: "Logout",

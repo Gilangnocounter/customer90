@@ -9,7 +9,7 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|TWO|MONTHS|MESIVERSARY|MY|LOVE',
+    sequence: 'HAPPY|BIRTHDAY|AAUNISYAA|🤍',
     // sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
     gift: './image/happy3.gif',
@@ -26,7 +26,7 @@ let settings = {
         },
         { 
             image: './image/photos/b2.png', 
-            content: 'I love everything about you without exception' 
+            content: 'You didn’t just steal my heart . You made it feel like home <3' 
         },
 
         // Lembar 2
@@ -35,17 +35,17 @@ let settings = {
         },
         { 
             image: './image/photos/b4.png', 
-            content: 'I love you with every beat of my heart.' 
-        }
+            content: 'Meeting you was my favorite coincidence dear. I miss you so much !' 
+        },
     
         // Lembar 3
-        // { 
-        //     image: './image/photos/b5.png',
-        // },
-        // { 
-        //     image: './image/photos/b6.png', 
-        //     content: 'Happy Birthday! May your new year be filled with love and laughter. 🎂' 
-        // }
+        { 
+            image: './image/photos/b5.png',
+        },
+        { 
+            image: './image/photos/b6.png', 
+            content: 'lloveyou from bottom of my heart ♡♡' 
+        }
 
         // // Lembar 4
         // { 
@@ -377,7 +377,7 @@ function initializeDefaultSettings() {
         matrixText: 'HAPPYBIRTHDAY',
         matrixColor1: '#ff69b4', // Màu pink mẫu
         matrixColor2: '#ff1493', // Màu pink mẫu
-        sequence: 'HAPPY|TWO|MONTHS|MESIVERSARY|MY|LOVE',
+        sequence: 'HAPPY|BIRTHDAY|AAUNISYAA|🤍',
         // sequence: 'HAPPY|BIRTHDAY|TO|ANITA|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
         gift: './image/happy3.gif',
@@ -397,7 +397,7 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b2.png', 
-                content: 'I love everything about you without exception' 
+                content: 'You didn’t just steal my heart . You made it feel like home <3' 
             },
         
             // Lembar 2
@@ -406,17 +406,17 @@ function initializeDefaultSettings() {
             },
             { 
                 image: './image/photos/b4.png', 
-                content: 'I love you with every beat of my heart.' 
-            }
+                content: 'Meeting you was my favorite coincidence dear. I miss you so much !' 
+            },
         
             // Lembar 3
-            // { 
-            //     image: './image/photos/b5.png',
-            // },
-            // { 
-            //     image: './image/photos/b6.png', 
-            //     content: 'Happy Birthday! May your new year be filled with love and laughter. 🎂' 
-            // }
+            { 
+                image: './image/photos/b5.png',
+            },
+            { 
+                image: './image/photos/b6.png', 
+                content: 'lloveyou from bottom of my heart ♡♡' 
+            }
         
             // // Lembar 4
             // { 
